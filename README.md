@@ -3,7 +3,6 @@
 <p align="center"><strong>谢子涵 · AI 应用实践者</strong><br>从企业软件交付出发，把业务问题做成可体验的产品。</p>
 
 <p align="center">
-  <a href="https://violetloveai.github.io/"><strong>🌷 个人网站</strong></a> ·
   <a href="#-精选作品">精选作品</a> ·
   <a href="https://github.com/violetloveAI?tab=repositories">全部仓库</a>
 </p>
@@ -77,4 +76,4 @@
 
 ---
 
-<p align="center">欢迎交流 AI 应用、企业交付和有趣的产品想法。<br>更多项目故事与联系入口，都在 <a href="https://violetloveai.github.io/">我的个人网站</a> 🌷</p>
+<p align="center">欢迎交流 AI 应用、企业交付和有趣的产品想法。🌷</p>
