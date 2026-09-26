@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/violet-letter-studio.svg" width="100%" alt="Violet Love AI：Violet 在紫罗兰书信工坊里创作，窗光、信件与花瓣缓缓流动。">
+</p>
+
 <h1 align="center">Hi, I'm Violet 👋</h1>
 
 <p align="center"><strong>谢子涵 · AI 应用实践者</strong><br>从企业软件交付出发，把业务问题做成可体验的产品。</p>
